@@ -11,3 +11,14 @@ img {
   margin-bottom: 5%;
   margin-top: 3%;
 }
+button {
+  background: #0271d1;
+  color: #fff;
+  border: none;
+  outline: none;
+  padding: 5px 19px;
+  border-radius: 5px;
+}
+button:hover {
+  background: #1d5e96;
+}
